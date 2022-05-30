@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "278811141857",
+    "firebase_url": "https://kursach-4e741-default-rtdb.firebaseio.com",
+    "project_id": "kursach-4e741",
+    "storage_bucket": "kursach-4e741.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278811141857:android:0e7de26ee707c55176f9a0",
+        "android_client_info": {
+          "package_name": "com.example.kyrsah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278811141857-e4rs5fq8728mc82iffufl8htu3nukhh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJLWOPIpBosCzB7Ij9wqublOIOClplk0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278811141857-e4rs5fq8728mc82iffufl8htu3nukhh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278811141857:android:496a515359dbd2ad76f9a0",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278811141857-e4rs5fq8728mc82iffufl8htu3nukhh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJLWOPIpBosCzB7Ij9wqublOIOClplk0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278811141857-e4rs5fq8728mc82iffufl8htu3nukhh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
